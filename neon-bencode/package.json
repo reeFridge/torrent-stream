@@ -1,0 +1,14 @@
+{
+  "name": "neon-bencode",
+  "version": "0.1.0",
+  "description": "neon version of bncode",
+  "main": "lib/index.js",
+  "author": "reeFridge <reefridgerator@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.22"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
